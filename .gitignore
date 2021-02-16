@@ -11,6 +11,12 @@
 # generated files
 bin/
 gen/
+generated/
+docs/
+finalOutput/
+projectFilesBackup/
+
+build.xml
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -37,3 +43,5 @@ build/
 
 # maven
 target/
+
+.DS_Store
